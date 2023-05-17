@@ -1,3 +1,5 @@
 line1: test line to see merge conflict in the line of code
 
-line2: merge conflict in newMerge txt file
+line2: merge conflict in newMerge txt file 
+
+lin3: added line in main branch
